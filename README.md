@@ -6,5 +6,5 @@
 
 ### 2) Özellikler
 **1. Sisteme hasta eklenebilir, hasta bilgileri düzenlenebilir veya hasta sistemden silinebilir. Aynı durumlar sistem kullanıcıları için de geçerlidir.**
-**2. Sisteme poliklinik eklenebilir, poliklinik bilgileri düzenlenebilir veya poliklinik sistemden silinebilir.**
+**2. Sisteme poliklinik eklenebilir, poliklinik bilgileri düzenlenebilir veya poliklinik sistemden silinebilir.**  
 **3. Sisteme poliklinik eklenebilir, poliklinik bilgileri düzenlenebilir veya poliklinik sistemden silinebilir.**
